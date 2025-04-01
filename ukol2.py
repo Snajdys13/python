@@ -11,3 +11,4 @@ podil = (cislo1 / cislo2)
 vysledek = (soucet or rozdil or soucin or podil)
 print("Dobře, zde je výsledek")
 print (vysledek) 
+párek
